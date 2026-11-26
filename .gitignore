@@ -1,0 +1,16 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Outputs / temporary archives
+*.zip
+*.pdb
+*.cif
+*.xtc
+*.dcd
+
+# OS
+.DS_Store

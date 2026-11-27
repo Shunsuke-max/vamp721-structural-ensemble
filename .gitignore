@@ -1,9 +1,12 @@
 # Python / Jupyter
 __pycache__/
 *.py[cod]
+*.egg-info/
+.pytest_cache/
 .ipynb_checkpoints/
 .venv/
 venv/
+uv.lock
 
 # Outputs / temporary archives
 *.zip
